@@ -1,0 +1,42 @@
+.hero {
+    background-color: #ffcc00;
+    padding: 200px 0;
+  }
+  
+  .footer {
+    color: #ffcc00;
+  }
+  
+  .navbar {
+    transition: background-color 0.5s ease-in-out;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #064e35;
+  }
+  
+  .dropdown-menu {
+    background-color: #006400;
+  }
+  
+  .social-icons a {
+    color: #ffcc00;
+    margin: 0 5px;
+    font-size: 20px;
+  }
+
+  /* Custom CSS for text color */
+body {
+    color: #000;
+  }
+  
+  /* Override navbar link color */
+  .navbar-nav .nav-link {
+    color: #ffd500 !important; /* Set navbar link color to black */
+  }
+  
+  .bg-darkgreen {
+    background-color: #006400 !important; /* Dark green background color */
+  }
+  
+  
